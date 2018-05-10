@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: VueTchat
+
+Name: /
+Sealed: false
+
